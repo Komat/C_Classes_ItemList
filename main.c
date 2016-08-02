@@ -7,7 +7,7 @@
  */
 
 #include <stdio.h>
-#include "classes/ItemList/ItemList.h"
+#include "ItemList.h"
 
 
 int main(void) {
