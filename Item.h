@@ -11,12 +11,20 @@
 
 #include <stdlib.h>
 
+/**
+ *
+ */
 typedef struct item_template {
     struct item_template *prev;
     struct item_template *next;
     void *val;
 } item;
 
+/**
+ *
+ * @param val
+ * @return
+ */
 item *item_new(void *val);
 
 #endif //ITEMLIST_ITEM_H
