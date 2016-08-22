@@ -1,7 +1,7 @@
 /**
  * @description
  * @fileName List.h.
- * @author komatsu
+ * @author komat
  * @date 8/2/16.
  * @version 0.0
  */
